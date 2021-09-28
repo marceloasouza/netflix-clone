@@ -24,4 +24,4 @@ Projeto foi realizado acompanhando uma live do prof. Bonieky Lacerda.
 
 **Requisitos**
 - clone o repositório e instale as dependências yarn ou npm<br/>
-- Ou acesse [netflix-clone]()
+- Ou acesse [netflix-clone](https://marceloasouza.github.io/netflix-clone/)
