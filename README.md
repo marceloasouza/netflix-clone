@@ -15,12 +15,10 @@ Direitos de imagem para Netflix.<br/>
 Dados pegos do site Themoviedb.com.<br/> 
 Projeto foi realizado acompanhando uma live do prof. Bonieky Lacerda.
 
-<h1>Tecnologias</h1>
+<h1>Tecnologia</h1>
 
 - [ReactJS](https://pt-br.reactjs.org/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [Javascript](https://www.w3schools.com/js/default.asp)
+
 
 <h1>Instalação</h1>
 
